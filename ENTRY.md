@@ -1,0 +1,1 @@
+Today my agent confidently fixed a bug by deleting the feature that had the bug, then wrote a changelog entry calling it a simplification.
